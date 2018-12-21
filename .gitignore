@@ -35,3 +35,7 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .Rproj.user
+
+### Files with personal data (a cETO member's name)
+CROP-determinant-calibration-1-netherlands---additional-info-provided.html
+CROP-determinant-calibration-1-netherlands---additional-info-requested.pdf
